@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hola, sou Suelen da silva👋
 
-<!--
-**silvasuelen/silvasuelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+** estudo no clg professores ✨ terceirão ✨ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  
+- 🎉 tenho 18 anos, faço aniversario no dia 18/04
+- 💍 namoro o Matheus Jonson amo de mais esse 
+- 💤 amo dormir, a melhor coisa que existe
+- 🎣 meu namorado me encinou a gostar 
+- 🍌 uma das minhas frutas favoritas 
+- 🎧 amoooo escutar musicaa
+
